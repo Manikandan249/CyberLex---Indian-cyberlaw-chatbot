@@ -1,0 +1,706 @@
+[
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "65",
+      "offence": "Tampering with computer source documents",
+      "punishment": "Imprisonment up to 3 years, or fine up to \u20b92,00,000, or both",
+      "description": {
+        "verbatim": "Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy or alter any computer source code used for a computer, computer programme, computer system or computer network, when the computer source code is required to be kept or maintained by law for the time being in force, shall be punishable with imprisonment up to three years, or with fine which may extend up to two lakh rupees, or with both.",
+        "layman_terms": "This law punishes those who deliberately modify, delete, or hide computer source code that is legally required to be maintained. Source code is the core of all software. Altering it can result in operational failures, security risks, or legal violations, especially if that software is used in critical areas like finance, healthcare, or governance.",
+        "example": "An IT employee deletes key parts of a tax software's source code after resigning, disrupting taxpayer filings. Since the code was legally mandated to be preserved, they can be prosecuted under this section."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66",
+      "offence": "Hacking with computer system",
+      "punishment": "Imprisonment up to 3 years, or fine up to \u20b95,00,000, or both",
+      "description": {
+        "verbatim": "Whoever, by means of any computer resource or a communication device, knowingly or intentionally conceals, destroys, or alters any data, information, or computer source code, or accesses any computer system or network without authorization, shall be punished with imprisonment which may extend up to three years, or with fine which may extend up to five lakh rupees, or with both.",
+        "layman_terms": "Hacking refers to breaking into computer systems to steal, alter, or destroy data. This law aims to punish anyone who illegally accesses, manipulates, or damages computer systems or networks.",
+        "example": "A hacker gains unauthorized access to a bank’s server to steal sensitive customer data, and as a result, is charged under this section."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66B",
+      "offence": "Receiving stolen computer resource or device",
+      "punishment": "Imprisonment up to 3 years, or fine up to \u20b91,00,000, or both",
+      "description": {
+        "verbatim": "Whoever dishonestly receives or retains any stolen computer resource or communication device knowing or having reason to believe the same to be stolen, shall be punished.",
+        "layman_terms": "This law penalizes people who accept or keep stolen electronic devices or digital resources, such as stolen laptops, mobile phones, or data files. The idea is that not just the thief, but also those benefiting from digital theft, are held accountable.",
+        "example": "A person knowingly purchases a stolen hard drive containing proprietary software from an online seller. Even though they did not steal it, possessing it makes them guilty under this law."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66C",
+      "offence": "Identity theft",
+      "punishment": "Imprisonment up to 3 years, and fine up to \u20b91,00,000",
+      "description": {
+        "verbatim": "Whoever, fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+        "layman_terms": "This section punishes those who steal and use someone else's digital identity, like a password or digital signature, without their permission. Identity theft can lead to unauthorized transactions, reputational damage, and significant financial loss.",
+        "example": "A hacker uses a person’s Aadhaar-linked OTP and password to log into their digital wallet and make purchases. This use of someone else’s identity without consent constitutes a crime under this law."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66D",
+      "offence": "Cheating by personation using computer resource",
+      "punishment": "Imprisonment up to 3 years, and fine up to \u20b91,00,000",
+      "description": {
+        "verbatim": "Whoever, by means of any communication device or computer resource cheats by personation, shall be punished.",
+        "layman_terms": "This law makes it a crime to pretend to be someone else online or through any digital means to cheat or deceive others. It's aimed at scams and frauds that involve impersonation.",
+        "example": "A fraudster pretends to be a bank officer via email and convinces someone to share their OTP and card details. This is punishable under this law."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66E",
+      "offence": "Violation of privacy",
+      "punishment": "Imprisonment up to 3 years, or fine up to \u20b92,00,000, or both",
+      "description": {
+        "verbatim": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person, shall be punished with imprisonment which may extend to three years or with fine not exceeding two lakh rupees, or with both.",
+        "layman_terms": "This law addresses the illegal capturing and sharing of images of a person’s private parts without consent. It covers situations where people’s privacy is violated through hidden cameras or unauthorized sharing of intimate photos. Consent and context are crucial.",
+        "example": "Someone secretly records a video of a person in a changing room and shares it online. Even if the face isn't visible, this is a violation of privacy and punishable under this law."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "67",
+      "offence": "Publishing obscene material in electronic form",
+      "punishment": "First conviction: imprisonment up to 3 years and fine up to \u20b95,00,000; second conviction: up to 5 years and fine up to \u20b910,00,000",
+      "description": {
+        "verbatim": "Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it, shall be punished...",
+        "layman_terms": "This law criminalizes the online distribution of obscene content—anything that's sexually explicit, offensive, or corrupting in nature. It aims to prevent the circulation of pornographic or indecent material through electronic means, especially on public platforms.",
+        "example": "A person uploads sexually explicit videos to a public social media account without age restriction or warning. This falls under obscene content transmission, and is prosecutable under this law."
+      }
+    },
+    {
+      "law": "Information Technology Act, 2000",
+      "section": "66F",
+      "offence": "Cyber terrorism",
+      "punishment": "Imprisonment for life",
+      "description": {
+        "verbatim": "Whoever with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in people denies access to a computer resource or causes death/injuries... shall be punishable with imprisonment for life.",
+        "layman_terms": "Cyber terrorism includes using digital tools to attack critical infrastructure like power grids, healthcare systems, or military databases, especially if the intention is to create fear, instability, or loss of life.",
+        "example": "A hacker group disables the power grid in a major Indian city through a cyberattack intending to disrupt the country. This is considered cyber terrorism under this law."
+      }
+    },
+    {
+      "law": "Digital Personal Data Protection Act, 2023",
+      "section": "12",
+      "offence": "Processing personal data of children without consent",
+      "punishment": "Penalty up to \u20b9200 crore",
+      "description": {
+        "verbatim": "A Data Fiduciary shall not process personal data of a child or a person with disability without verifiable consent of the parent or lawful guardian.",
+        "layman_terms": "This rule prevents apps, websites, or companies from collecting or using children’s personal data unless they first get verified permission from a parent or guardian.",
+        "example": "An edtech app signs up children and tracks their behavior without verifying parental permission. This breach can lead to penalties up to \u20b9200 crore."
+      }
+    },
+    {
+      "law": "Indian Penal Code, 1860",
+      "section": "420",
+      "offence": "Cheating and dishonestly inducing delivery of property",
+      "punishment": "Imprisonment up to 7 years and fine",
+      "description": {
+        "verbatim": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to consent that any person shall retain any property, shall be punished.",
+        "layman_terms": "This provision is used to penalize fraudsters who deceive someone into parting with property or money. While it’s mostly applied to traditional fraud, it also extends to cyber fraud cases like online scams.",
+        "example": "A scammer promises to sell a fake product online, receives the money, but never sends the item. This is covered under section 420."
+      }
+    },
+      {
+        "law": "Indian Penal Code, 1860",
+        "section": "465",
+        "offence": "Forgery",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "description": {
+          "verbatim": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+          "layman_terms": "Forgery is the act of making false documents, signatures, or electronic records to deceive or defraud others. This section can be applied to anyone who creates, alters, or uses fake records, whether paper or digital, for fraudulent purposes.",
+          "example": "A person forges digital signatures to create a fake loan agreement and uses it to get financial benefits illegally. This is punishable under section 465."
+        }
+      },
+      {
+        "law": "Indian Penal Code, 1860",
+        "section": "469",
+        "offence": "Forging documents to harm reputation",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "description": {
+          "verbatim": "Whoever commits forgery with intent to harm or defraud any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+          "layman_terms": "This section punishes those who forge documents with the intent to harm someone’s reputation, typically in the form of fake emails, letters, or financial documents used to damage someone's personal or professional standing.",
+          "example": "A person forges a resignation letter from a senior employee and uses it to malign their reputation in the company, making it look like they resigned under suspicious circumstances."
+        }
+      },
+      {
+        "law": "Indian Penal Code, 1860",
+        "section": "503",
+        "offence": "Criminal intimidation",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "description": {
+          "verbatim": "Whoever threatens another with any injury to their person, reputation, or property, shall be punished with imprisonment for a term which may extend to two years, or with fine, or with both.",
+          "layman_terms": "This law penalizes anyone who threatens harm to another person, including threats made online. The threat can be physical, emotional, or financial and may cause distress or fear in the victim.",
+          "example": "A person sends threatening messages to a victim via social media, saying that they will release damaging personal information about them unless they comply with certain demands."
+        }
+      },
+      {
+        "law": "Indian Penal Code, 1860",
+        "section": "507",
+        "offence": "Criminal intimidation by anonymous communication",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "description": {
+          "verbatim": "Whoever commits the offence of criminal intimidation by anonymous communication, shall be punished with imprisonment which may extend to two years, or with fine, or with both.",
+          "layman_terms": "This law specifically targets the act of threatening someone without revealing one’s identity, often done through anonymous emails, phone calls, or social media accounts.",
+          "example": "An individual receives an anonymous email threatening to harm their family unless they pay a ransom. This would be punishable under section 507."
+        }
+      },
+      {
+        "law": "Indian Penal Code, 1860",
+        "section": "511",
+        "offence": "Punishment for attempting to commit offenses",
+        "punishment": "Imprisonment for up to half the maximum term for the offense attempted, or fine, or both",
+        "description": {
+          "verbatim": "Whoever attempts to commit an offense punishable with imprisonment for life or with imprisonment for a term of 10 years or more shall be punished with imprisonment for a term which may extend to half of the term of imprisonment for the offense attempted, or with fine, or with both.",
+          "layman_terms": "This section applies to any individual who attempts to commit a cybercrime or any criminal offense, even if the offense is not successfully carried out. For instance, if someone tries to hack into a system but is caught before completing the act, they can be punished for attempting to commit the crime.",
+          "example": "A hacker attempts to gain access to a government database but is caught by cybersecurity personnel before succeeding. They are charged under section 511 for attempting the crime."
+        }
+      },
+      {
+        "law": "The Digital Personal Data Protection Act, 2023",
+        "section": "14",
+        "offence": "Failure to comply with data fiduciary obligations",
+        "punishment": "Penalty up to \u20b9250 crore",
+        "description": {
+          "verbatim": "If a data fiduciary fails to comply with the obligations prescribed under this Act regarding processing of personal data, a penalty may be imposed up to \u20b9250 crore.",
+          "layman_terms": "This law holds companies accountable for how they handle personal data. If a company fails to protect data according to regulations or mishandles it, it can face heavy fines. This provision ensures businesses prioritize user privacy and data protection.",
+          "example": "A social media company mishandles users’ data by sharing it without consent, violating the law. The company faces a fine of up to \u20b9250 crore under section 14."
+        }
+      },
+      {
+        "law": "The Digital Personal Data Protection Act, 2023",
+        "section": "15",
+        "offence": "Failure to inform affected individuals about data breaches",
+        "punishment": "Penalty up to \u20b9200 crore",
+        "description": {
+          "verbatim": "A data fiduciary shall notify affected individuals in case of a data breach involving their personal data. Failure to notify could result in a penalty up to \u20b9200 crore.",
+          "layman_terms": "If a company experiences a data breach affecting personal data, they are legally obligated to inform those whose data was compromised. Failure to do so can lead to substantial fines.",
+          "example": "A healthcare service provider experiences a data breach where patients’ personal health information is leaked. The company does not notify the affected individuals within the required time frame, leading to a penalty of \u20b9200 crore."
+        }
+      },
+      {
+        "law": "The Digital Personal Data Protection Act, 2023",
+        "section": "16",
+        "offence": "Data fiduciary not adhering to data security measures",
+        "punishment": "Penalty up to \u20b9150 crore",
+        "description": {
+          "verbatim": "If a data fiduciary fails to implement reasonable security safeguards to prevent data breaches, they are subject to penalties up to \u20b9150 crore.",
+          "layman_terms": "Data fiduciaries, such as businesses handling personal information, must implement proper security measures. If they fail to do so and the data gets breached, the organization can be fined up to \u20b9150 crore.",
+          "example": "A digital payment company fails to use encryption or other security measures to protect users' payment data, resulting in a breach. As a result, they face a fine of \u20b9150 crore for security negligence."
+        }
+      },
+      {
+        "law": "The Indian Telegraph Act, 1885",
+        "section": "25",
+        "offence": "Interception of messages",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "description": {
+          "verbatim": "Whoever intercepts or detains any message or communication sent through any telegraph, shall be punished.",
+          "layman_terms": "This law criminalizes the act of intercepting or unlawfully accessing private messages sent via electronic means, such as emails, text messages, or online communications. Unauthorized surveillance or hacking of private messages is illegal.",
+          "example": "A hacker intercepts private text messages between two individuals and leaks sensitive information. This interception violates section 25 of the Indian Telegraph Act and is punishable."
+        }
+      },
+      {
+        "law": "The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+        "section": "8",
+        "offence": "Failure to protect sensitive personal data",
+        "punishment": "Penalty as per the discretion of the authorities",
+        "description": {
+          "verbatim": "The data collector must adopt reasonable security practices to protect sensitive personal data from unauthorized access, disclosure, or destruction.",
+          "layman_terms": "This regulation requires companies and organizations to safeguard sensitive data, such as financial records, health details, or passwords. Failure to do so leaves organizations open to penalties and customer trust issues.",
+          "example": "A financial services provider exposes its customers' bank details online due to insufficient data security measures. The company can be fined under this regulation for not protecting sensitive personal information."
+        }
+      },
+        {
+          "law": "The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+          "section": "6",
+          "offence": "Failure to inform individuals about data processing",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "The data fiduciary shall inform the data subject about the processing of their sensitive personal data, including the purpose and consequences of processing.",
+            "layman_terms": "This rule ensures that organizations collecting sensitive personal data inform individuals about how their data will be used, including any potential risks or impacts. Failing to provide this information could result in penalties.",
+            "example": "A health app collects sensitive data like medical conditions without informing users about how their data will be used or shared with third parties. The company could face penalties under this rule for not providing adequate information."
+          }
+        },
+        {
+          "law": "The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+          "section": "7",
+          "offence": "Data storage beyond the permissible duration",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "Sensitive personal data should not be retained for longer than necessary for the purpose for which it was collected and should be deleted or destroyed when no longer required.",
+            "layman_terms": "This rule mandates that organizations store sensitive data for only as long as needed. Once the data is no longer required for its original purpose, it must be securely deleted or destroyed.",
+            "example": "A social media platform retains user data long after they’ve closed their accounts. If this data isn't properly deleted or archived, the platform could face penalties."
+          }
+        },
+        {
+          "law": "The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+          "section": "4",
+          "offence": "Failure to implement security measures for sensitive personal data",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "The data fiduciary shall implement reasonable security practices and procedures to safeguard sensitive personal data against unauthorized access, disclosure, or destruction.",
+            "layman_terms": "Organizations must use security protocols like encryption and firewalls to protect sensitive personal data from unauthorized access. If they fail to implement these security measures, they can face penalties.",
+            "example": "A mobile wallet app stores user payment data without encryption. If hackers breach the system and steal users’ sensitive data, the app may be penalized for not ensuring proper data security."
+          }
+        },
+        {
+          "law": "The Payment and Settlement Systems Act, 2007",
+          "section": "18",
+          "offence": "Breach of security in payment systems",
+          "punishment": "Imprisonment up to 1 year, or fine, or both",
+          "description": {
+            "verbatim": "A person who contravenes the provisions of this Act or rules or regulations made thereunder, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.",
+            "layman_terms": "This law aims to ensure that financial systems, such as payment gateways and mobile banking apps, comply with security protocols. Violating these provisions can lead to imprisonment or fines.",
+            "example": "A payment gateway provider violates security measures, causing a data breach that compromises customers' financial information. The company can face penalties under this law."
+          }
+        },
+        {
+          "law": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+          "section": "3(1)",
+          "offence": "Failure of intermediaries to adhere to due diligence",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "Intermediaries must exercise due diligence while hosting user-generated content and remove unlawful content as per the guidelines established under the Act.",
+            "layman_terms": "This provision requires digital platforms, like social media and content-sharing websites, to ensure that user-generated content does not violate laws, including hate speech or illegal material. If they fail to monitor and remove harmful content, they can face penalties.",
+            "example": "A social media platform fails to remove hateful posts, which could incite violence. The platform can face penalties for failing to take due diligence under these rules."
+          }
+        },
+        {
+          "law": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+          "section": "4",
+          "offence": "Non-compliance with notice-and-takedown mechanism",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "Intermediaries must comply with a notice-and-takedown mechanism, removing illegal content within a specified timeframe after receiving a complaint.",
+            "layman_terms": "This provision ensures that intermediaries act quickly to remove harmful or unlawful content when flagged. If they ignore these complaints or delay action, they can face penalties.",
+            "example": "A video-sharing platform fails to take down a video that promotes illegal activities, despite receiving multiple complaints. This non-compliance can lead to penalties."
+          }
+        },
+        {
+          "law": "The Indian Telegraph Act, 1885",
+          "section": "20",
+          "offence": "Transmission of messages with criminal intent",
+          "punishment": "Imprisonment up to 3 years, or fine, or both",
+          "description": {
+            "verbatim": "Whoever sends any message with the intent to cause harm or mislead the recipient shall be punished.",
+            "layman_terms": "This section criminalizes sending fraudulent or misleading messages through any telecommunication means, including digital means. It's aimed at deterring acts like spreading fake news or defrauding individuals via electronic communication.",
+            "example": "A person sends a fraudulent email claiming to be from a government body, asking recipients to provide personal details. The sender is guilty under this section."
+          }
+        },
+        {
+          "law": "The National Critical Information Infrastructure Protection Centre Act, 2013",
+          "section": "7",
+          "offence": "Failure to report cyber attacks on critical infrastructure",
+          "punishment": "Penalty as per the discretion of the authorities",
+          "description": {
+            "verbatim": "Any entity responsible for critical information infrastructure must report cyber attacks, incidents, and breaches to the National Critical Information Infrastructure Protection Centre (NCIIPC).",
+            "layman_terms": "Organizations managing essential services like power grids, banking, or defense must report cyber attacks immediately. Failure to report such incidents could harm national security or public safety.",
+            "example": "A power company experiences a cyber attack on its control systems but fails to report it to the authorities. The company could face penalties for non-compliance under this law."
+          }
+        },
+        {
+          "law": "The Indian Penal Code, 1860",
+          "section": "124A",
+          "offence": "Sedition",
+          "punishment": "Imprisonment up to life, or fine",
+          "description": {
+            "verbatim": "Whoever, by words, either spoken or written, or by signs or by visible representations, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards the Government of India, shall be punished.",
+            "layman_terms": "This law is aimed at those who try to create unrest or discontent against the Indian government, either through speech or written content. It’s important in the context of digital platforms, as online posts promoting sedition or anti-national activities can be prosecuted.",
+            "example": "A person publishes an inflammatory social media post that encourages people to rise against the government. They could be prosecuted under section 124A for sedition."
+          }
+        },
+        {
+          "law": "The Official Secrets Act, 1923",
+          "section": "3",
+          "offence": "Unauthorized disclosure of government secrets",
+          "punishment": "Imprisonment up to 14 years, or fine, or both",
+          "description": {
+            "verbatim": "Whoever, without lawful authority, discloses or attempts to disclose any official secret shall be punished with imprisonment for a term which may extend to fourteen years, or with fine, or with both.",
+            "layman_terms": "This law criminalizes the unauthorized sharing of official government secrets, including sensitive documents and classified information. Cyber crimes like hacking government databases to leak confidential information fall under this law.",
+            "example": "A government employee hacks into a secure government network and leaks classified defense information online. This violation is punishable under the Official Secrets Act."
+          }
+        },
+          {
+            "law": "The National Cyber Security Policy, 2013",
+            "section": "N/A",
+            "offence": "Cybersecurity threats and infrastructure protection",
+            "punishment": "N/A (policy, not a law with punishment)",
+            "description": {
+              "verbatim": "The National Cyber Security Policy aims to protect critical information infrastructure and provide a secure cyberspace for citizens and organizations. It sets the groundwork for cybersecurity in India, focusing on areas like cybercrime, data protection, and awareness.",
+              "layman_terms": "This policy provides guidelines to secure the digital infrastructure of India, protecting citizens, businesses, and the government from cyber threats. While it doesn't define punishments, it lays the foundation for national cybersecurity measures.",
+              "example": "Under this policy, the government sets up national-level security programs to protect government websites, financial institutions, and critical infrastructure like power grids from cyber-attacks."
+            }
+          },
+          {
+            "law": "The Indian Copyright Act, 1957 (Amended in 2012)",
+            "section": "N/A",
+            "offence": "Copyright infringement through digital means",
+            "punishment": "Civil and criminal penalties for infringement",
+            "description": {
+              "verbatim": "The Indian Copyright Act, 1957, governs the protection of literary, dramatic, musical, and artistic works. The Act was amended in 2012 to include digital media, addressing the protection of digital content like software, music, films, and literary works.",
+              "layman_terms": "This law protects creators of digital content from unauthorized copying, distribution, and use of their works. It covers everything from pirated software to illegal sharing of music and movies online.",
+              "example": "A person illegally downloads a movie from a torrent site and shares it online. They would be violating the Copyright Act and could face penalties, including imprisonment or fines."
+            }
+          },
+          {
+            "law": "The Consumer Protection Act, 2019",
+            "section": "Section 84",
+            "offence": "Misleading advertising, fraud in e-commerce",
+            "punishment": "Penalty as per the discretion of the authorities",
+            "description": {
+              "verbatim": "This Act provides a framework for consumer protection in India, including provisions for misleading advertisements and unfair trade practices in online transactions and digital services.",
+              "layman_terms": "If an e-commerce website or app deceives consumers with fake ads or defective products, the consumer can seek compensation or report the issue under this Act. The law covers digital platforms to ensure fairness and transparency.",
+              "example": "An online store falsely advertises a product with misleading claims about its features. A consumer buys the product and is dissatisfied. They can approach consumer courts for redressal under the Consumer Protection Act."
+            }
+          },
+          {
+            "law": "The Indian Evidence Act, 1872 (Amended in 2000)",
+            "section": "Section 65B",
+            "offence": "Admissibility of electronic evidence",
+            "punishment": "N/A (law is related to admissibility in court)",
+            "description": {
+              "verbatim": "Section 65B of the Indian Evidence Act deals with the admissibility of electronic records, including emails, digital files, and social media posts, as evidence in Indian courts.",
+              "layman_terms": "This law allows electronic records, such as emails, screenshots, and digital documents, to be used as evidence in court. It’s crucial for cases involving digital crimes like cyber fraud or online defamation.",
+              "example": "In a cybercrime case, the victim presents screenshots of online threats received via social media. Under Section 65B, these electronic records are admissible as evidence in court."
+            }
+          },
+          {
+            "law": "The Prevention of Money Laundering Act, 2002 (PMLA)",
+            "section": "N/A",
+            "offence": "Money laundering via digital means",
+            "punishment": "Imprisonment for 3 to 7 years, or both",
+            "description": {
+              "verbatim": "The PMLA aims to prevent money laundering by addressing financial crimes involving online transactions, including online fraud, illegal remittances, and digital financial operations.",
+              "layman_terms": "This law targets financial crimes like online fraud, where money is illegally transferred or cleaned through digital means. If you're caught trying to hide or transfer illicit money online, this law applies.",
+              "example": "A person uses a cryptocurrency wallet to transfer illegally acquired funds to a foreign account. They are caught and prosecuted under the PMLA for money laundering."
+            }
+          },
+          {
+            "law": "The Protection of Children from Sexual Offences (POCSO) Act, 2012",
+            "section": "Section 12",
+            "offence": "Online child sexual abuse and exploitation",
+            "punishment": "Imprisonment of 5 years to life, fine",
+            "description": {
+              "verbatim": "The POCSO Act criminalizes all forms of sexual exploitation and abuse of children, including online exploitation and the sharing of child pornography.",
+              "layman_terms": "This law protects children from sexual abuse, including in the digital space. Any online activity involving child pornography or exploitation is punishable by law under this act.",
+              "example": "An individual uploads or shares child pornography on social media. They can be prosecuted under the POCSO Act and face severe penalties, including imprisonment."
+            }
+          },
+          {
+            "law": "The Foreign Exchange Management Act (FEMA), 1999",
+            "section": "Section 10",
+            "offence": "Illegal online financial transactions",
+            "punishment": "Penalties as prescribed by FEMA regulations",
+            "description": {
+              "verbatim": "FEMA regulates cross-border payments, foreign investments, and digital transactions involving foreign entities. It ensures that all financial transactions conducted via digital platforms comply with Indian foreign exchange regulations.",
+              "layman_terms": "If you engage in unauthorized foreign transactions through online platforms or e-commerce, FEMA regulates and penalizes such activities. This includes issues like illegal money transfers or unapproved foreign investments.",
+              "example": "A person uses an online payment platform to transfer money to an overseas account without declaring the purpose. This could be an offense under FEMA, resulting in fines or other penalties."
+            }
+          },
+          {
+            "law": "The Aadhaar Act, 2016",
+            "section": "Section 29",
+            "offence": "Unauthorized use or disclosure of Aadhaar information",
+            "punishment": "Imprisonment up to 3 years, or fine, or both",
+            "description": {
+              "verbatim": "This Act governs the collection, storage, and use of biometric and demographic data in the Aadhaar system. It prohibits unauthorized access, use, or disclosure of Aadhaar data.",
+              "layman_terms": "Aadhaar-related data must be protected. If anyone misuses Aadhaar details or accesses them without permission, they can face legal consequences, including jail time or fines.",
+              "example": "An employee at a private company misuses customer Aadhaar data to access bank accounts or misuse subsidies. This is a punishable offense under the Aadhaar Act."
+            }
+          },
+          {
+            "law": "The National Digital Communications Policy (NDCP), 2018",
+            "section": "N/A",
+            "offence": "Violation of digital communication infrastructure security",
+            "punishment": "N/A (policy, no specific punishments)",
+            "description": {
+              "verbatim": "The NDCP aims to increase broadband penetration, enhance the quality of digital communication services, and secure critical digital infrastructure from cyber threats.",
+              "layman_terms": "This policy ensures that digital communications, like mobile networks and the internet, are safe and secure from cyberattacks. It provides a framework for protecting digital infrastructure across the country.",
+              "example": "A telecom company fails to secure its communication infrastructure, leaving it vulnerable to cyberattacks. The company might be subject to regulatory actions under the NDCP guidelines."
+            }
+          },
+            {
+              "law": "The Digital and Social Media Ethics Code (2021)",
+              "section": "N/A",
+              "offence": "Non-compliance with digital content regulations",
+              "punishment": "Fines, potential suspension, and blocking of platforms",
+              "description": {
+                "verbatim": "This code provides a framework for regulating digital platforms and social media companies in India. It outlines the responsibilities of platforms to ensure compliance with Indian law and prevent misuse of their services for illegal content.",
+                "layman_terms": "This regulation ensures that digital platforms and social media companies take responsibility for the content shared on their platforms. It holds them accountable for issues like misinformation, offensive content, and illegal activities online.",
+                "example": "A social media platform fails to remove hate speech or misleading content in time, leading to public harm. The platform can be fined or even blocked from operating in India under this code."
+              }
+            },
+            {
+              "law": "The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+              "section": "Rule 8",
+              "offence": "Failure to protect sensitive personal data",
+              "punishment": "Monetary penalties and legal action",
+              "description": {
+                "verbatim": "These rules provide specific guidelines for organizations to protect sensitive personal data and sensitive information. They apply to companies handling data and set forth the security practices that must be followed.",
+                "layman_terms": "Companies and organizations that collect personal data, such as your health or financial information, must ensure it is kept secure and not misused. These rules ensure businesses follow proper procedures to protect your sensitive data.",
+                "example": "A company storing your health information online fails to implement basic security measures, leading to a data breach. The company can be penalized under these rules."
+              }
+            },
+            {
+              "law": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+              "section": "Rule 3",
+              "offence": "Non-compliance by social media platforms",
+              "punishment": "Penalties, content removal, or suspension of services",
+              "description": {
+                "verbatim": "These rules set out the responsibilities of intermediaries (like social media platforms) to ensure that they adhere to content regulations, such as removing unlawful content, providing users with an easy way to report issues, and ensuring transparency in their operations.",
+                "layman_terms": "If you use a social media platform, the company behind it must follow rules to prevent harmful content, such as hate speech or pornography. If they don't, they could face fines or have their services suspended in India.",
+                "example": "A social media platform fails to remove offensive hate speech even after repeated requests from users. The platform can be fined or banned under the new regulations."
+              }
+            },
+            {
+              "law": "The Telecommunications (Telecom Consumers Protection) Regulations, 2012",
+              "section": "Regulation 3.2.6",
+              "offence": "Telecom fraud and unauthorized data usage",
+              "punishment": "Fines and suspension of services",
+              "description": {
+                "verbatim": "These regulations protect telecom consumers from fraud, such as unauthorized charges and misuse of personal data. It mandates telecom service providers to secure consumer information and prevent any fraudulent activity.",
+                "layman_terms": "If a telecom service provider uses your data without permission or charges you for services you didn't sign up for, they must be held accountable. These regulations protect consumers from such telecom frauds.",
+                "example": "A customer is charged for a premium SMS service they didn't subscribe to. The telecom provider must resolve the issue and may face fines under the regulations."
+              }
+            },
+            {
+              "law": "The Copyright (Amendment) Act, 2012",
+              "section": "Section 65A",
+              "offence": "Online copyright infringement and distribution of pirated content",
+              "punishment": "Imprisonment up to 3 years and a fine",
+              "description": {
+                "verbatim": "The Copyright (Amendment) Act, 2012 updates the Copyright Act, 1957, to address the growing issue of digital copyright infringement, including the illegal distribution of copyrighted works over the internet.",
+                "layman_terms": "This law protects digital creators from having their content illegally shared or copied online. If someone illegally shares a movie, music, or software on the internet, they can be prosecuted under this law.",
+                "example": "A user uploads a pirated version of a movie to a file-sharing website. This action violates copyright laws, and the individual can face jail time or a fine under the Copyright Act."
+              }
+            },
+            {
+              "law": "The Companies (Amendment) Act, 2017",
+              "section": "Section 380",
+              "offence": "Corporate data theft and cybersecurity breaches",
+              "punishment": "Imprisonment and fines",
+              "description": {
+                "verbatim": "The Companies (Amendment) Act, 2017 introduced provisions related to data security, making it a criminal offence for companies to breach their own security protocols and allow data theft or data breaches.",
+                "layman_terms": "If a company fails to protect the data it collects from customers, and that data is stolen, the company can be held responsible and penalized under this law.",
+                "example": "A company's employee intentionally steals sensitive customer data and sells it to third parties. The company faces penalties for failing to ensure proper data security measures were in place."
+              }
+            },
+            {
+              "law": "The Digital Personal Data Protection Bill, 2022",
+              "section": "Chapter IV",
+              "offence": "Violation of data protection and privacy laws",
+              "punishment": "Imprisonment up to 3 years and fines",
+              "description": {
+                "verbatim": "The Digital Personal Data Protection Bill, 2022 focuses on protecting the personal data of individuals in India. It mandates that organizations processing such data must do so with consent and implement appropriate security measures.",
+                "layman_terms": "This law protects your personal data when it's used by companies, such as your phone number, email address, or online purchase history. Organizations need your consent to use your data, and they must ensure it is kept secure.",
+                "example": "An e-commerce platform sells your personal data to third parties without your permission. Under this bill, the platform could be fined or face criminal charges for violating your privacy."
+              }
+            },
+              {
+                "law": "The Payment and Settlement Systems Act, 2007",
+                "section": "Section 25",
+                "offence": "Unauthorized transactions in digital payment systems",
+                "punishment": "Imprisonment up to 2 years and/or fine",
+                "description": {
+                  "verbatim": "This Act regulates and supervises payment systems and settlement systems in India, ensuring their efficiency and security. It addresses the misuse of digital payment mechanisms, particularly unauthorized transactions and breaches.",
+                  "layman_terms": "If a payment system, such as an online banking platform, is used for unauthorized transactions, the Payment and Settlement Systems Act helps identify such issues and ensures penalties for the individuals or entities involved.",
+                  "example": "A person fraudulently transfers money from someone else's bank account through an online payment platform. Under this law, the fraudulent individual can face imprisonment and fines."
+                }
+              },
+              {
+                "law": "The Prevention of Electronic Crimes Act, 2019",
+                "section": "N/A",
+                "offence": "Cybercrime offenses including hacking, fraud, and identity theft",
+                "punishment": "Imprisonment up to 10 years and fines",
+                "description": {
+                  "verbatim": "The Prevention of Electronic Crimes Act addresses various cybercrimes, including hacking, online fraud, and identity theft. It provides for the establishment of an electronic crimes investigation wing to tackle digital offenses.",
+                  "layman_terms": "This law is aimed at curbing all types of cybercrimes, like hacking into someone's computer or stealing personal information. It provides penalties for various online illegal activities.",
+                  "example": "An individual hacks into a bank's server and steals customer details, leading to identity theft. The hacker can be prosecuted under this Act, with a severe penalty of up to 10 years in prison."
+                }
+              },
+              {
+                "law": "The Goods and Services Tax (GST) Act, 2017 (Digital Transactions)",
+                "section": "Section 9(2)",
+                "offence": "Non-compliance with GST regulations for e-commerce transactions",
+                "punishment": "Fines and possible imprisonment",
+                "description": {
+                  "verbatim": "The GST Act covers digital transactions in India, ensuring that e-commerce platforms comply with tax regulations. The law mandates that online transactions be taxed according to the rules set by the government.",
+                  "layman_terms": "This law ensures that businesses conducting transactions through e-commerce platforms or digital payments properly pay taxes. Failure to comply with the GST regulations can result in fines and penalties.",
+                  "example": "An online store fails to collect and remit the correct GST on a customer's purchase. The store may be fined or penalized under this Act for not adhering to tax regulations."
+                }
+              },
+              {
+                "law": "The Information Technology (Cyber Security) Act, 2009",
+                "section": "Section 70A",
+                "offence": "Unauthorized access to critical infrastructure and government data",
+                "punishment": "Imprisonment up to 5 years and/or fine",
+                "description": {
+                  "verbatim": "The Cyber Security Act of 2009 addresses issues of unauthorized access to critical infrastructure and government data systems. It mandates the protection of these systems and the prosecution of those who attempt to compromise them.",
+                  "layman_terms": "This law makes it illegal to hack into or compromise critical government and business systems, such as the infrastructure of power grids, transportation, or government servers. Any breach could lead to severe penalties.",
+                  "example": "A hacker gains unauthorized access to a government server containing sensitive national data. Under this law, they could face up to 5 years of imprisonment and fines for compromising national security."
+                }
+              },
+              {
+                "law": "The Digital Signature (Electronic Authentication) Act, 2016",
+                "section": "Section 8",
+                "offence": "Fraudulent use of digital signatures",
+                "punishment": "Imprisonment for up to 3 years and/or fine",
+                "description": {
+                  "verbatim": "This law regulates the use of digital signatures and electronic authentication systems in India. It aims to prevent the unauthorized use or fraud involving digital signatures.",
+                  "layman_terms": "Digital signatures are used to authenticate documents online. If someone fraudulently uses a digital signature to forge documents or transactions, they can face imprisonment and penalties.",
+                  "example": "A person uses someone else's digital signature to authorize a fraudulent transaction. This is a punishable offense under the Digital Signature Act, leading to imprisonment and fines."
+                }
+              },
+              {
+                "law": "The Online Content Regulation Act (Proposed)",
+                "section": "N/A",
+                "offence": "Publishing harmful content online",
+                "punishment": "Penalties, content removal, or platform suspension",
+                "description": {
+                  "verbatim": "The Online Content Regulation Act (proposed) seeks to regulate online platforms and curb harmful content such as fake news, child exploitation material, and hate speech. The law imposes penalties for non-compliance.",
+                  "layman_terms": "This law will ensure that online platforms, such as social media, remove harmful content like fake news or illegal material. Platforms that don't comply can be fined or banned in India.",
+                  "example": "A social media platform refuses to remove a post promoting violence or hate speech. Under the proposed law, the platform could face penalties or be suspended from operating in India."
+                }
+              },
+                {
+                  "law": "The Personal Data Protection Bill, 2019",
+                  "section": "Chapter III, Section 6",
+                  "offence": "Processing of personal data without consent",
+                  "punishment": "Fines up to \u20b915 crore or 4% of the annual global turnover (whichever is higher)",
+                  "description": {
+                    "verbatim": "The Personal Data Protection Bill, 2019, outlines the rules for the processing of personal data by both government and private entities. The law requires data processors to obtain explicit consent before collecting, storing, or processing any personal data.",
+                    "layman_terms": "This law ensures that your personal data, such as your name, address, and online activity, is not used without your permission. It requires companies to ask for your consent before using your data and ensures they protect it from misuse.",
+                    "example": "An online retailer collects personal details from customers without their consent and uses the information for marketing. Under the Personal Data Protection Bill, the retailer could face a fine for processing data without proper consent."
+                  }
+                },
+                {
+                  "law": "The Electronic Delivery of Services Bill, 2011",
+                  "section": "Section 5",
+                  "offence": "Failure to comply with e-services standards",
+                  "punishment": "Fines and penalties",
+                  "description": {
+                    "verbatim": "The Electronic Delivery of Services Bill, 2011, lays down the framework for providing government services through electronic means. It ensures that digital services are made available to citizens in a secure and accessible manner.",
+                    "layman_terms": "This law requires government services like applying for a license or paying taxes to be accessible online. If an e-service doesn't comply with the standards set by the law, the entity responsible can be fined or penalized.",
+                    "example": "A government portal fails to provide secure and timely access to digital services like tax filing or online applications. Under this law, the responsible government body may face penalties."
+                  }
+                },
+                {
+                  "law": "The Indian Penal Code, 1860 (Section 66A - Removed but relevant in historical context)",
+                  "section": "Section 66A",
+                  "offence": "Sending offensive messages through communication service, etc.",
+                  "punishment": "Imprisonment up to 3 years and/or fine",
+                  "description": {
+                    "verbatim": "Section 66A of the Indian Penal Code criminalized sending offensive messages through communication services, such as the internet or mobile phones. The provision was later struck down by the Supreme Court in 2015 for being overly broad and violating free speech.",
+                    "layman_terms": "This section once made it illegal to send offensive, insulting, or annoying messages through social media or email. While the law has been removed, it is often referenced when discussing online freedom of speech issues.",
+                    "example": "A person sent an offensive tweet about a political figure and was arrested under Section 66A. However, this law was later declared unconstitutional by the Supreme Court in 2015."
+                  }
+                },
+                {
+                  "law": "The Indian Contract Act, 1872 (As Applied to Online Contracts)",
+                  "section": "Section 10A",
+                  "offence": "Invalid or unenforceable online contracts",
+                  "punishment": "Civil consequences like contract voidance",
+                  "description": {
+                    "verbatim": "Section 10A of the Indian Contract Act, 1872, governs the enforceability of online contracts in India. It acknowledges that electronic contracts and agreements are as valid as paper-based contracts, provided the terms are agreed upon by both parties.",
+                    "layman_terms": "This law ensures that contracts made online, such as agreements between consumers and businesses, are legally binding in the same way as those signed on paper. If any terms are not clear or fair, the contract can be challenged or invalidated.",
+                    "example": "A consumer purchases a product online, but the terms and conditions aren't clear. If the consumer disputes the purchase, the agreement may be ruled unenforceable under Section 10A."
+                  }
+                },
+                {
+                  "law": "The National Cyber Security Policy, 2013",
+                  "section": "N/A",
+                  "offence": "Cybersecurity breach and failure to comply with policy measures",
+                  "punishment": "Non-compliance penalties",
+                  "description": {
+                    "verbatim": "The National Cyber Security Policy, 2013, aims to protect the information infrastructure in India, ensuring that data, critical infrastructure, and online systems are safeguarded from cyber threats. The policy includes guidelines for both public and private sectors.",
+                    "layman_terms": "This policy focuses on improving the security of India's digital infrastructure, such as government databases and private businesses. If organizations fail to follow the guidelines or safeguard their systems, they may face penalties or corrective measures.",
+                    "example": "A government agency experiences a data breach due to poor cybersecurity practices. Under the National Cyber Security Policy, they may be penalized for failing to follow the security measures outlined in the policy."
+                  }
+                },
+                {
+                  "law": "The Indian Telegraph Act, 1885 (Section 25)",
+                  "section": "Section 25",
+                  "offence": "Unauthorized interception of communications",
+                  "punishment": "Imprisonment for up to 3 years and/or fine",
+                  "description": {
+                    "verbatim": "Section 25 of the Indian Telegraph Act, 1885, criminalizes the unauthorized interception of communication through telecommunications or digital networks. This includes eavesdropping or hacking into private communication.",
+                    "layman_terms": "If someone listens in on your private phone calls or reads your private emails without your permission, they are breaking the law. This section makes it illegal to intercept private communications without authorization.",
+                    "example": "A hacker intercepts emails between two business partners to steal sensitive information. This individual can be prosecuted under Section 25 of the Indian Telegraph Act."
+                  }
+                },
+                  {
+                    "law": "The Indian Copyright Act, 1957 (Section 51)",
+                    "section": "Section 51",
+                    "offence": "Copyright infringement",
+                    "punishment": "Imprisonment up to 3 years and/or fine up to \u20b92 lakh",
+                    "description": {
+                      "verbatim": "Section 51 of the Indian Copyright Act, 1957, makes it illegal to infringe on the copyright of others. This includes reproducing, distributing, or performing copyrighted works without permission from the owner.",
+                      "layman_terms": "If you use someone else's creative work, like music, art, or software, without their permission, you are violating their copyright. This law ensures that creators have control over how their work is used.",
+                      "example": "A person uploads a pirated version of a movie to a website. This is a violation of the Copyright Act, and the individual could face imprisonment or fines for copyright infringement."
+                    }
+                  },
+                  {
+                    "law": "The Information Technology (Certifying Authorities) Rules, 2000",
+                    "section": "Rule 12",
+                    "offence": "Fraudulent use of digital certificates",
+                    "punishment": "Imprisonment up to 5 years and/or fine",
+                    "description": {
+                      "verbatim": "These rules govern the registration, issuance, and use of digital certificates, ensuring that digital signatures are legally recognized. It also penalizes fraudulent use of certificates or unauthorized access to certification authorities.",
+                      "layman_terms": "Digital certificates are used to authenticate online transactions and communications. If someone falsely uses a digital certificate to impersonate another person or company, they can be punished under these rules.",
+                      "example": "A hacker uses a fake digital certificate to impersonate a trusted bank and steals money from customers. The hacker can be prosecuted under these rules for fraudulent use of a digital certificate."
+                    }
+                  },
+                  {
+                    "law": "The Securities and Exchange Board of India (SEBI) Cyber Security and Cyber Resilience Framework, 2021",
+                    "section": "N/A",
+                    "offence": "Failure to implement cyber resilience in financial systems",
+                    "punishment": "Penalties, suspension, or cancellation of licenses",
+                    "description": {
+                      "verbatim": "The SEBI Cyber Security and Cyber Resilience Framework, 2021, mandates all market participants (such as stock exchanges and brokers) to implement stringent cybersecurity measures and ensures that they are resilient to cyber threats.",
+                      "layman_terms": "This law requires financial institutions like stock exchanges and brokers to protect themselves from cyberattacks. If they fail to do so and suffer a breach, they could face penalties or even have their operating licenses revoked.",
+                      "example": "A stock exchange experiences a cyberattack that leads to data loss of investor details. Under SEBI's framework, the exchange could face penalties for failing to implement necessary cybersecurity measures."
+                    }
+                  },
+                  {
+                    "law": "The Consumer Protection (E-Commerce) Rules, 2020",
+                    "section": "Rule 3",
+                    "offence": "Non-compliance with e-commerce consumer protection regulations",
+                    "punishment": "Fines and penalties",
+                    "description": {
+                      "verbatim": "The Consumer Protection (E-Commerce) Rules, 2020, regulate e-commerce platforms to ensure that consumer rights are protected. They require online businesses to provide clear and transparent policies, protect consumer data, and resolve disputes.",
+                      "layman_terms": "This law ensures that online shopping platforms protect consumer rights, provide clear return policies, and ensure the security of your data when you shop online. It also mandates that disputes are resolved fairly.",
+                      "example": "An online store does not provide clear return policies, and a customer is unable to get a refund for a faulty product. The e-commerce platform could be penalized under these rules."
+                    }
+                  },
+                  {
+                    "law": "The Cable Television Networks (Regulation) Act, 1995",
+                    "section": "Section 19A",
+                    "offence": "Broadcasting obscene or illegal content",
+                    "punishment": "Imprisonment up to 2 years and/or fine",
+                    "description": {
+                      "verbatim": "Section 19A of the Cable Television Networks (Regulation) Act, 1995, regulates content broadcast on cable TV networks. It makes it illegal to broadcast obscene, hateful, or offensive content, including content that promotes violence or discrimination.",
+                      "layman_terms": "This law ensures that TV channels do not air harmful or illegal content, such as violence, hate speech, or obscene material. It holds broadcasters accountable for the content they show on television.",
+                      "example": "A television channel airs an inflammatory speech that promotes violence and hatred. The channel could face legal consequences under this Act for broadcasting harmful content."
+                    }
+                  },
+                  {
+                    "law": "The Indian Telegraph Act, 1885 (Section 7)",
+                    "section": "Section 7",
+                    "offence": "Failure to comply with government orders on communication interception",
+                    "punishment": "Fines or penalties",
+                    "description": {
+                      "verbatim": "Section 7 of the Indian Telegraph Act, 1885, grants the government the authority to intercept communication for national security or law enforcement purposes. Non-compliance with government orders to intercept communications can lead to penalties.",
+                      "layman_terms": "This law allows the government to monitor phone calls or digital communications if there is a national security concern. If a telecommunications company refuses to comply with such an order, they can face penalties.",
+                      "example": "A telecom operator refuses to comply with a government order to intercept a suspicious communication. The company could face fines or other penalties for failing to comply with the law."
+                    }
+                  }
+                ]  

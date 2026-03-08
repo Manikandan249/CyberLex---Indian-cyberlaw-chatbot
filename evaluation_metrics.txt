@@ -1,0 +1,75 @@
+Evaluation Results on 64 queries:
+Precision@1: 0.80
+Recall@3: 0.98
+MRR: 0.88
+
+Classification Report:
+                                                                                                                                            precision    recall  f1-score   support
+
+                                                                                                            Indian Penal Code, 1860 - S469       1.00      1.00      1.00         1
+                                                                                      The Digital Personal Data Protection Act, 2023 - S16       1.00      1.00      1.00         1
+                                                                                           The National Cyber Security Policy, 2013 - SN/A       1.00      1.00      1.00         2
+     The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 - S6       1.00      1.00      1.00         1
+                                                                            The Foreign Exchange Management Act (FEMA), 1999 - SSection 10       1.00      1.00      1.00         1
+                                                                            The National Digital Communications Policy (NDCP), 2018 - SN/A       1.00      1.00      1.00         1
+                                                                                                    Information Technology Act, 2000 - S65       1.00      1.00      1.00         1
+                                                                                                   Information Technology Act, 2000 - S66B       1.00      1.00      1.00         1
+     The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 - S8       1.00      1.00      1.00         1
+                                                                                        The Companies (Amendment) Act, 2017 - SSection 380       1.00      1.00      1.00         1
+                                                                                The Payment and Settlement Systems Act, 2007 - SSection 25       1.00      1.00      1.00         1
+     The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 - S4       1.00      1.00      1.00         1
+                                                                                                   Information Technology Act, 2000 - S66E       1.00      1.00      1.00         1
+                                                                      The Information Technology (Cyber Security) Act, 2009 - SSection 70A       1.00      1.00      1.00         1
+                                                                         The Personal Data Protection Bill, 2019 - SChapter III, Section 6       1.00      1.00      1.00         1
+                              The Securities and Exchange Board of India (SEBI) Cyber Security and Cyber Resilience Framework, 2021 - SN/A       1.00      1.00      1.00         1
+                                                           The Protection of Children from Sexual Offences (POCSO) Act, 2012 - SSection 12       1.00      1.00      1.00         1
+                                    The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 - S3(1)       1.00      1.00      1.00         1
+                                     The Indian Penal Code, 1860 (Section 66A - Removed but relevant in historical context) - SSection 66A       1.00      1.00      1.00         1
+                                                                                    The Digital and Social Media Ethics Code (2021) - SN/A       1.00      1.00      1.00         1
+                                                                       The Cable Television Networks (Regulation) Act, 1995 - SSection 19A       1.00      1.00      1.00         1
+                                       The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 - S4       1.00      1.00      1.00         1
+                                                                  The Digital Signature (Electronic Authentication) Act, 2016 - SSection 8       1.00      1.00      1.00         1
+                                                                                                            Indian Penal Code, 1860 - S420       0.00      0.00      0.00         1
+                                                                                The Prevention of Money Laundering Act, 2002 (PMLA) - SN/A       1.00      1.00      1.00         1
+                                                                                      The Digital Personal Data Protection Act, 2023 - S14       1.00      1.00      1.00         1
+                                                                                       The Online Content Regulation Act (Proposed) - SN/A       1.00      1.00      1.00         1
+                                                                                                            Indian Penal Code, 1860 - S507       1.00      1.00      1.00         1
+                                                                                   The Indian Telegraph Act, 1885 (Section 7) - SSection 7       1.00      1.00      1.00         1
+                                                                                                   Information Technology Act, 2000 - S66F       1.00      1.00      1.00         1
+                                                                                   The Indian Copyright Act, 1957 (Amended in 2012) - SN/A       1.00      1.00      1.00         1
+                                                             The Indian Contract Act, 1872 (As Applied to Online Contracts) - SSection 10A       1.00      1.00      1.00         1
+                                                                                                       The Indian Penal Code, 1860 - S124A       1.00      1.00      1.00         1
+                                                                                 The Indian Copyright Act, 1957 (Section 51) - SSection 51       1.00      1.00      1.00         1
+                                                                                                       The Official Secrets Act, 1923 - S3       1.00      1.00      1.00         1
+                                                                                      The Prevention of Electronic Crimes Act, 2019 - SN/A       1.00      1.00      1.00         1
+                                                                                                   Information Technology Act, 2000 - S66C       1.00      1.00      1.00         1
+                                                                                                            Indian Penal Code, 1860 - S511       1.00      1.00      1.00         1
+                                  The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 - SRule 3       1.00      1.00      1.00         1
+                                                                                                   Information Technology Act, 2000 - S66D       1.00      1.00      1.00         1
+                                                                                 The Indian Telegraph Act, 1885 (Section 25) - SSection 25       1.00      1.00      1.00         1
+                                                                                                            Indian Penal Code, 1860 - S503       1.00      1.00      1.00         1
+                                                                                        The Copyright (Amendment) Act, 2012 - SSection 65A       1.00      1.00      1.00         1
+                                                                                                      The Indian Telegraph Act, 1885 - S25       1.00      1.00      1.00         1
+                                                                                The Consumer Protection (E-Commerce) Rules, 2020 - SRule 3       1.00      1.00      1.00         1
+                                                         The National Critical Information Infrastructure Protection Centre Act, 2013 - S7       1.00      1.00      1.00         1
+                                                                                                    Information Technology Act, 2000 - S66       1.00      1.00      1.00         1
+                                                                                           The Consumer Protection Act, 2019 - SSection 84       0.50      1.00      0.67         1
+The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 - SRule 8       1.00      1.00      1.00         1
+                                                                                                            Indian Penal Code, 1860 - S465       1.00      1.00      1.00         1
+                                                         The Goods and Services Tax (GST) Act, 2017 (Digital Transactions) - SSection 9(2)       1.00      1.00      1.00         1
+                                                                                                      The Indian Telegraph Act, 1885 - S20       1.00      1.00      1.00         1
+                                                                                                       The Aadhaar Act, 2016 - SSection 29       1.00      1.00      1.00         1
+                                               The Telecommunications (Telecom Consumers Protection) Regulations, 2012 - SRegulation 3.2.6       1.00      1.00      1.00         1
+                                                                             The Digital Personal Data Protection Bill, 2022 - SChapter IV       1.00      1.00      1.00         1
+                                                                               The Electronic Delivery of Services Bill, 2011 - SSection 5       1.00      1.00      1.00         1
+                                                                                          Digital Personal Data Protection Act, 2023 - S12       1.00      1.00      1.00         1
+                                                                                      The Digital Personal Data Protection Act, 2023 - S15       1.00      1.00      1.00         1
+     The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 - S7       1.00      1.00      1.00         1
+                                                                The Information Technology (Certifying Authorities) Rules, 2000 - SRule 12       1.00      1.00      1.00         1
+                                                                                        The Payment and Settlement Systems Act, 2007 - S18       1.00      1.00      1.00         1
+                                                                            The Indian Evidence Act, 1872 (Amended in 2000) - SSection 65B       1.00      1.00      1.00         1
+                                                                                                    Information Technology Act, 2000 - S67       1.00      1.00      1.00         1
+
+                                                                                                                                  accuracy                           0.98        64
+                                                                                                                                 macro avg       0.98      0.98      0.98        64
+                                                                                                                              weighted avg       0.98      0.98      0.98        64
